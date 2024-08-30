@@ -1,7 +1,6 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=ffffff&height=120&text=DYShin1&animation=&fontColor=000000&fontSize=40&desc=&descAlignY=75&stroke=000000&strokeWidth=2" />
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=ffffff&height=120&text=DYShin1&animation=&fontColor=000000&fontSize=40&desc=__________&descAlignY=75&descAlign=62&stroke=000000&strokeWidth=2" />
 </div>
-
 
 ## ㅇㅇㅇ
 
