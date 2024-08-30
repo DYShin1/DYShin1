@@ -34,5 +34,6 @@
 ## 🏅 Stats
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=DYShin1&custom_title=DYShin1's Github Stat&bg_color=180,000000,&title_color=000000&text_color=000000"/>
+<img src="https://github-readme-stats.vercel.app/api?username=DYShin1&show_icons=true&theme=default" />
+
 </div>
