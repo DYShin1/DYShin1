@@ -8,7 +8,7 @@
 
 ## 🛠️ Tech Stacks
 
-<div align="center">
+<div>
     <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white">
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
     <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white">
@@ -22,7 +22,7 @@
 
 ## 🧑‍💻 Contact me
 
-<div align="center">
+<div
     <a href="mailto:daeyeong0306@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:daeyeong0306@gmail.com">
     </a>
